@@ -13,7 +13,7 @@ public class StringExample
 		System.out.println("s4: " + s4);
 		System.out.println("s5: " + s5);
 		
-		//showing effect of precedence
+		
 		
 		x = 3;
 		int y = 5;
