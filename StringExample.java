@@ -12,9 +12,8 @@ public class StringExample
 		System.out.println("s3: " + s3);
 		System.out.println("s4: " + s4);
 		System.out.println("s5: " + s5);
-		
-		
-		
+
+		//This is the testing file
 		x = 3;
 		int y = 5;
 		String s6 = x + y + "total";
